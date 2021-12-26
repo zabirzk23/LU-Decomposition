@@ -1,4 +1,4 @@
-# LU Decomposition without zero on the diagonal
+# LU Decomposition 
 
 ## AIM:
 To write a program to find the LU Decomposition of a matrix.
@@ -14,6 +14,15 @@ To write a program to find the LU Decomposition of a matrix.
 4. 
 
 ## Program:
+(i) To find the L and U matrix
+```
+/*
+Program to find the L and U matrix.
+Developed by: 
+RegisterNumber: 
+*/
+```
+(ii) To find the LU Decomposition of a matrix
 ```
 /*
 Program to find the LU Decomposition of a matrix.
